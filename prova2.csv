@@ -1,0 +1,123 @@
+                                  name  total   percent code
+0                              Albania      2  0.000731  ALB
+1                              Algeria      2  0.000731  DZA
+2                  Antigua And Barbuda      3  0.001096  ATG
+3                            Argentina     52  0.018999  ARG
+4                              Armenia      1  0.000365  ARM
+5                            Australia     34  0.012422  AUS
+6                              Austria      6  0.002192  AUT
+7                           Azerbaijan      3  0.001096  AZE
+8                           Bangladesh      3  0.001096  BGD
+9                              Belarus      2  0.000731  BLR
+10                             Belgium     13  0.004750  BEL
+11                              Belize      1  0.000365  BLZ
+12                             Bermuda      1  0.000365  BMU
+13     Bolivia, Plurinational State Of      3  0.001096  BOL
+14              Bosnia And Herzegovina      1  0.000365  BIH
+15                            Botswana      1  0.000365  BWA
+16                              Brazil    319  0.116551  BRA
+17                            Bulgaria      2  0.000731  BGR
+18                             Burundi      1  0.000365  BDI
+19                            Cambodia      1  0.000365  KHM
+20                            Cameroon      3  0.001096  CMR
+21                              Canada     62  0.022653  CAN
+22                               Chile     23  0.008403  CHL
+23                               China     26  0.009499  CHN
+24                            Colombia     32  0.011692  COL
+25                          Costa Rica      9  0.003288  CRI
+26                             Croatia      1  0.000365  HRV
+27                                Cuba      3  0.001096  CUB
+28                             Czechia      6  0.002192  CZE
+29                             Denmark      5  0.001827  DNK
+30                  Dominican Republic      5  0.001827  DOM
+31                             Ecuador     21  0.007673  ECU
+32                               Egypt     13  0.004750  EGY
+33                         El Salvador      5  0.001827  SLV
+34                            Ethiopia      1  0.000365  ETH
+35                                Fiji      2  0.000731  FJI
+36                             Finland      9  0.003288  FIN
+37                              France     23  0.008403  FRA
+38                             Georgia      3  0.001096  GEO
+39                             Germany     63  0.023018  DEU
+40                               Ghana      9  0.003288  GHA
+41                              Greece     14  0.005115  GRC
+42                           Guatemala     13  0.004750  GTM
+43                              Guyana      1  0.000365  GUY
+44                               Haiti      1  0.000365  HTI
+45                            Honduras      6  0.002192  HND
+46                           Hong Kong     20  0.007307  HKG
+47                             Hungary      9  0.003288  HUN
+48                               India     70  0.025575  IND
+49                           Indonesia      7  0.002558  IDN
+50                                Iraq      2  0.000731  IRQ
+51                             Ireland      7  0.002558  IRL
+52                              Israel      3  0.001096  ISR
+53                               Italy     26  0.009499  ITA
+54                             Jamaica      1  0.000365  JAM
+55                               Japan      8  0.002923  JPN
+56                              Jordan      4  0.001461  JOR
+57                          Kazakhstan      1  0.000365  KAZ
+58                               Kenya     10  0.003654  KEN
+59                  Korea, Republic Of     11  0.004019  KOR
+60                          Kyrgyzstan      1  0.000365  KGZ
+61                              Latvia      2  0.000731  LVA
+62                             Lebanon      3  0.001096  LBN
+63                             Liberia      2  0.000731  LBR
+64                               Libya      1  0.000365  LBY
+65                              Malawi      5  0.001827  MWI
+66                            Malaysia     12  0.004384  MYS
+67                              Mexico     81  0.029594  MEX
+68                            Mongolia      1  0.000365  MNG
+69                             Morocco      3  0.001096  MAR
+70                          Mozambique      4  0.001461  MOZ
+71                             Myanmar      2  0.000731  MMR
+72                               Nepal      3  0.001096  NPL
+73                         Netherlands     26  0.009499  NLD
+74                         New Zealand     10  0.003654  NZL
+75                           Nicaragua      4  0.001461  NIC
+76                             Nigeria     39  0.014249  NGA
+77                              Norway     10  0.003654  NOR
+78                            Pakistan     11  0.004019  PAK
+79                 Palestine, State Of      3  0.001096  PSE
+80                              Panama      2  0.000731  PAN
+81                            Paraguay      3  0.001096  PRY
+82                                Peru     18  0.006577  PER
+83                         Philippines     14  0.005115  PHL
+84                              Poland      3  0.001096  POL
+85                            Portugal     22  0.008038  PRT
+86                         Puerto Rico      2  0.000731  PRI
+87                             Romania     10  0.003654  ROU
+88                  Russian Federation     14  0.005115  RUS
+89                              Rwanda      2  0.000731  RWA
+90                             Réunion      1  0.000365  REU
+91                        Saudi Arabia      1  0.000365  SAU
+92                             Senegal      1  0.000365  SEN
+93                              Serbia      3  0.001096  SRB
+94                        Sierra Leone      2  0.000731  SLE
+95                           Singapore     11  0.004019  SGP
+96                            Slovakia      3  0.001096  SVK
+97                             Somalia      1  0.000365  SOM
+98                        South Africa     18  0.006577  ZAF
+99                         South Sudan      1  0.000365  SSD
+100                              Spain    104  0.037998  ESP
+101                          Sri Lanka      2  0.000731  LKA
+102                              Sudan      1  0.000365  SDN
+103                             Sweden     20  0.007307  SWE
+104                        Switzerland      9  0.003288  CHE
+105                             Taiwan     18  0.006577  TWN
+106       Tanzania, United Republic Of      1  0.000365  TZA
+107                           Thailand      2  0.000731  THA
+108                        Timor-Leste      1  0.000365  TLS
+109                               Togo      1  0.000365  TGO
+110                Trinidad And Tobago      5  0.001827  TTO
+111                            Tunisia      3  0.001096  TUN
+112                             Turkey      7  0.002558  TUR
+113                             Uganda      1  0.000365  UGA
+114                            Ukraine     30  0.010961  UKR
+115               United Arab Emirates      1  0.000365  ARE
+116                     United Kingdom     87  0.031787  GBR
+117                      United States   1064  0.388747  USA
+118                            Uruguay      4  0.001461  URY
+119  Venezuela, Bolivarian Republic Of     28  0.010230  VEN
+120                           Viet Nam      1  0.000365  VNM
+121                           Zimbabwe      3  0.001096  ZWE
